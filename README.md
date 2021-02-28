@@ -1,4 +1,4 @@
-### Hi there, I'm [xmuli](https://xmuli.tech/)👋
+### Hi there, I'm [xmuli](https://ifmet.cn)👋
 A boy who sees the world and always stays curious. Loves open source and sharing, currently working at Deepin, one of the Linux distributions.  
 
 Life is short, better leave something useful for others.
