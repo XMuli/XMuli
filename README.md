@@ -8,7 +8,7 @@ Life is short, better leave something useful for others.
 - 🔭 I'm doing a lot of research on Qt/C++, and a few other languages.
 - 🌱 I like some things in life worth remembering.
 - 📫 You can find my contact information on the left.
-- 😄 You can get to know me by reading [my blog](https://xmuli.tech/).
+- 😄 You can get to know me by reading [ifmet.cn](https://ifmet.cn).
 - ⚡ I like programming 👨‍💻, reading 📚, cooking 🍽，traveling 🍀，and make new friends 🙈.
 
 <br>
