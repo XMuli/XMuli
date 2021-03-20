@@ -4,7 +4,6 @@ A boy who sees the world and always stays curious. Loves open source and sharing
 Life is short, better leave something useful for others.
 
 
-
 - 🔭 I'm doing a lot of research on Qt/C++, and a few other languages.
 - 🌱 I like some things in life worth remembering.
 - 📫 You can find my contact information on the left.
