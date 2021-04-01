@@ -12,8 +12,6 @@ Life is short, better leave something useful for others.
 
 <br>
 
-<br>
-
 <a href="https://github.com/xmuli"><img align="right" src="https://github-readme-stats.vercel.app/api?username=xmuli&count_private=true&show_icons=true"/></a>
 
 **Platforms：**
