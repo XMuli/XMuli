@@ -1,4 +1,4 @@
-### Hi there, I'm [xmuli](https://ifmet.cn)👋
+### Hi there, I'm [XMuli](https://ifmet.cn)👋
 A boy who sees the world and always stays curious. Loves open source and sharing, currently working at Deepin, one of the Linux distributions.  
 
 Life is short, better leave something useful for others.
@@ -12,19 +12,19 @@ Life is short, better leave something useful for others.
 
 <br>
 
-<a href="https://github.com/xmuli"><img align="right" src="https://github-readme-stats.vercel.app/api?username=xmuli&count_private=true&show_icons=true"/></a>
+<a href="https://github.com/XMuli"><img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XMuli&count_private=true&show_icons=true"/></a>
 
 **Platforms：**
 
-<code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/linux.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/mac.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/Windows.svg" width="24"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/XMuli/xmuliPic@pic/2020/linux.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/XMuli/xmuliPic@pic/2020/mac.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/XMuli/xmuliPic@pic/2020/Windows.svg" width="24"/></code>
 
 **tools:**
 
-<code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/qtcreator.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/vs.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/vscode.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/vim-gtk.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/git.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/gnu.svg" width="24"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/XMuli/xmuliPic@pic/2020/qtcreator.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/XMuli/xmuliPic@pic/2020/vs.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/XMuli/xmuliPic@pic/2020/vscode.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/XMuli/xmuliPic@pic/2020/vim-gtk.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/XMuli/xmuliPic@pic/2020/git.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/XMuli/xmuliPic@pic/2020/gnu.svg" width="24"/></code>
 
 **Language:**
 
-<code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/c%20(3).svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/icons8-c++.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/Sql%20Server.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/rust.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/HTML.svg" width="24"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/XMuli/xmuliPic@pic/2020/c%20(3).svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/XMuli/xmuliPic@pic/2020/icons8-c++.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/XMuli/xmuliPic@pic/2020/Sql%20Server.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/XMuli/xmuliPic@pic/2020/rust.svg" width="24"/></code> <code><img src="https://cdn.jsdelivr.net/gh/XMuli/xmuliPic@pic/2020/HTML.svg" width="24"/></code>
 
 <br>
 
@@ -33,4 +33,4 @@ Life is short, better leave something useful for others.
 Come and take a look at this little dinosaur?
 
 <br>
-<img align="left" src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/dino.gif" width="70%"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/XMuli/xmuliPic@pic/2020/dino.gif" width="70%"/>
