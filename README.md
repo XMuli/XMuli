@@ -1,4 +1,4 @@
-### Hi there, I'm [XMuli](https://ifmet.cn)👋
+### Hi there, I'm [Zhang Wengeng, Online aliases is XMuli](https://xmuli.tech)👋
 A boy who sees the world and always stays curious. Loves open source and sharing, currently working at Deepin, one of the Linux distributions.  
 
 Life is short, better leave something useful for others.
@@ -7,7 +7,7 @@ Life is short, better leave something useful for others.
 - 🔭 I'm doing a lot of research on Qt/C++, and a few other languages.
 - 🌱 I like some things in life worth remembering.
 - 📫 You can find my contact information on the left.
-- 😄 You can get to know me by reading [ifmet.cn](https://ifmet.cn).
+- 😄 You can get to know me by reading [xmuli.tech](https://xmuli.tech).
 - ⚡ I like programming 👨‍💻, reading 📚, cooking 🍽，traveling 🍀，and make new friends 🙈.
 
 <br>
