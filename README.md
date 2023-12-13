@@ -1,10 +1,10 @@
 ### Hi there, I'm [Zhang Wengeng, Online aliases is XMuli](https://xmuli.tech)👋
-A boy who sees the world and always stays curious. Loves open source and sharing, currently working at Deepin, one of the Linux distributions.  
+A boy who sees the world and always stays curious. Loves open source and sharing, worked at Deepin, one of the Linux distributions.  
 
 Life is short, better leave something useful for others.
 
 
-- 🔭 I'm doing a lot of research on Qt/C++, and a few other languages.
+- 🔭 I'm doing a lot of research on Qt/C++, and a few other languages.i
 - 🌱 I like some things in life worth remembering.
 - 📫 You can find my contact information on the left.
 - 😄 You can get to know me by reading [xmuli.tech](https://xmuli.tech).
