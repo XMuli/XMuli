@@ -1,4 +1,4 @@
-### Hi there, I'm [Zhang Wengeng, Online aliases is XMuli](https://xmuli.tech)👋
+### Hi there, I'm [XMuli](https://xmuli.tech)👋
 A boy who sees the world and always stays curious. Loves open source and sharing, worked at Deepin, one of the Linux distributions.  
 
 Life is short, better leave something useful for others.
